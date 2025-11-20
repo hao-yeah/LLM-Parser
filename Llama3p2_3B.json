@@ -1,0 +1,16 @@
+{
+    "model_name": "Llama3.2-3B",
+    "model_arch": "Decoder-only",
+    "d_model": 3072,
+    "layer_num": 28,
+    "mult_head": 12,
+    "gqa_fact": 3,
+    "d_mlp_up": 8192,
+    "d_mlp_gate": 8192,
+    "d_mlp_down": 3072,
+    "d_vocab": 128256,
+    "att_bias": false,
+    "ffn_bias": false,
+    "ln_bias": false,
+    "is_swiGLU": true
+}
